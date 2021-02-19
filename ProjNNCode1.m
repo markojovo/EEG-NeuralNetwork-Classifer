@@ -1,6 +1,6 @@
 %{
 README:
-Physionet SVM trained binary classification code
+Physionet NN trained binary classification code
 Author: Marko Jovanovic
         markoj285@gmail.com
         Last Updated: Feb 18, 2021

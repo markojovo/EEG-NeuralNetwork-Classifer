@@ -10,9 +10,6 @@ superfolder, titled "EEGdatasets"
 
 Example dataset name format required: '..\EEGdatasets\S003\S003R08.edf'
 
-
-To train: Uncommment weight and bias random intialization and training code block
-To Test: Comment out weight and bias random intialization and training code block
 %}
 
 

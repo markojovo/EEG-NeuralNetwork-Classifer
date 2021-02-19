@@ -3,21 +3,13 @@ README:
 Physionet SVM trained binary classification code
 Author: Marko Jovanovic
         markoj285@gmail.com
-        Last Updated: Dec 3, 2020
+        Last Updated: Feb 18, 2021
 Use: 
 Requires Physionet EEG dataset https://physionet.org/content/eegmmidb/1.0.0/
 superfolder, titled "EEGdatasets"
 
-Example dataset name format required: 'EEGdatasets\S003\S003R08.edf'
+Example dataset name format required: '..\EEGdatasets\S003\S003R08.edf'
 
-Main Code:
-Proj1Code.m
-
-Functions:
-Eventread.m
-ImportEvents.m
-GetFileName.m
-SVMFF.m
 
 To train: Uncommment weight and bias random intialization and training code block
 To Test: Comment out weight and bias random intialization and training code block
